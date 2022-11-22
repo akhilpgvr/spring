@@ -1,7 +1,7 @@
 server:
   port: 5545
   servlet:
-    context path: "/test/v4"
+    context path: "/amenities-reservation/v1"
 
 
 spring:
